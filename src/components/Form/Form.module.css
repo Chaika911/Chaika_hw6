@@ -1,0 +1,16 @@
+.button{
+    padding: 20px 60px;
+    background-color: pink;
+    border-radius: 30px;
+    cursor: pointer;
+    margin-top: 50px;
+    color: #fff;
+    font-size: 28px;
+
+}
+.button:hover{
+    background-color: green;
+}
+.error{
+    border: 1px solid red;
+}
